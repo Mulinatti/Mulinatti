@@ -14,10 +14,10 @@
 </div>
  
  ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0ff?style=for-the-badge&logo=javascript&labelColor=0ff)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0ff?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0ff)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0ff?style=for-the-badge&logo=react&labelColor=0ff)&nbsp;
-![HTML](https://img.shields.io/badge/-html-0ff?style=for-the-badge&logo=html&logoColor=purple&labelColor=0ff)&nbsp; 
+![JavaScript](https://img.shields.io/badge/-JavaScript-#bababa?style=for-the-badge&logo=javascript&labelColor=#bababa)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-#bababa?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=#bababa)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-#bababa?style=for-the-badge&logo=react&labelColor=#bababa)&nbsp;
+![HTML](https://img.shields.io/badge/-html-#bababa?style=for-the-badge&logo=html&logoColor=purple&labelColor=#bababa)&nbsp; 
 
 
 ### Studying in this moment:
